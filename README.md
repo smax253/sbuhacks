@@ -3,7 +3,7 @@ Project built for SBUHacks2019 -- echo: the language learning software that uses
 
 Project written by Max Shi and Hamzah Nizami
 
-Resources Used:
-Google Cloud Speech Recognition
-Kivy Python Frontend Framework
-MyProsody python speech analysis library found here: https://github.com/Shahabks/myprosody
+Resources Used:  
+Google Cloud Speech Recognition  
+Kivy Python Frontend Framework  
+MyProsody python speech analysis library found here: https://github.com/Shahabks/myprosody  
